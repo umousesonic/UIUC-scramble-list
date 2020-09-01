@@ -1,0 +1,9 @@
+shibboleth.illinois.edu,
+sso.medicatconnect.com/shibboleth,
+login.illinois.edu,
+uillinois.edu,
+illinois-sa.terradotta.com/sp/shibboleth,
+microsoft.com,
+office.com,
+office365.com,
+live.com
