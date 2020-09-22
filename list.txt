@@ -1,4 +1,4 @@
-myillinois.illinois.edu,
+myillini.illinois.edu,
 shibboleth.illinois.edu,
 sso.medicatconnect.com/shibboleth,
 login.illinois.edu,
