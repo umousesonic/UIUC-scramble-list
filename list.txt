@@ -9,3 +9,4 @@ microsoft.com,
 office.com,
 office365.com,
 live.com
+active.directory
